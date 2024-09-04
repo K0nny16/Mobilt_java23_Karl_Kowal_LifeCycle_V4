@@ -4,6 +4,6 @@ data class UserStruct(
     val age:Int? = null,
     val driversLicense:Boolean? = null,
     val gender:String? = null,
-    val email:String? = null,
+    val name:String? = null,
     val phoneNumber:String? = null
 )

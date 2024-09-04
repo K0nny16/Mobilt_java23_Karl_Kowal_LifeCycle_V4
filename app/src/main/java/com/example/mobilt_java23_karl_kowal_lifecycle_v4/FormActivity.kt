@@ -21,7 +21,7 @@ class FormActivity : AppCompatActivity() {
         val ageText = findViewById<EditText>(R.id.ageEditText)
         val driversLicenseCB = findViewById<CheckBox>(R.id.drivingLicenseCheckBox)
         val genderRadioGrp = findViewById<RadioGroup>(R.id.genderRadioGroup)
-        val emailEditText = findViewById<EditText>(R.id.emailEditText)
+        val nameEditText = findViewById<EditText>(R.id.nameEditText)
         val phoneNumberEditText = findViewById<EditText>(R.id.phoneEditText)
         val submitButton = findViewById<Button>(R.id.submitButton)
 
@@ -30,18 +30,18 @@ class FormActivity : AppCompatActivity() {
             val driversLicenes = driversLicenseCB.isChecked
             val selectedGenderID = genderRadioGrp.checkedRadioButtonId
             val gender = findViewById<RadioButton>(selectedGenderID).text.toString()
-            val email = emailEditText.text.toString()
+            val name = nameEditText.text.toString()
             val phone = phoneNumberEditText.text.toString()
 
-            if(age != null || email.isNotEmpty() || selectedGenderID == -1 || phone.isNotEmpty()){
+            if(age != null || name.isNotEmpty() || selectedGenderID == -1 || phone.isNotEmpty()){
                 val firebaseManager = FirebaseManager(this)
-                firebaseManager.pushUserData(age!!,driversLicenes,gender,email,phone) { success, errorMsg ->
+                firebaseManager.pushUserData(age!!,driversLicenes,gender,name,phone) { success, errorMsg ->
                     if(success){
                         Toast.makeText(this,"Data updated successfully!",Toast.LENGTH_SHORT).show()
                         ageText.text.clear()
                         driversLicenseCB.isChecked = false
                         genderRadioGrp.clearCheck()
-                        emailEditText.text.clear()
+                        nameEditText.text.clear()
                         phoneNumberEditText.text.clear()
                     }else{
                         Toast.makeText(this,"Failed to send data: $errorMsg",Toast.LENGTH_SHORT).show()

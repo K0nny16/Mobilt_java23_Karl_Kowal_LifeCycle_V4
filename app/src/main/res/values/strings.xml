@@ -17,4 +17,6 @@
     <string name="user_data">User Data</string>
     <string name="user">User</string>
     <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="enter_new_email_adress">Enter new email adress</string>
+    <string name="enter_new_password">Enter new password</string>
 </resources>

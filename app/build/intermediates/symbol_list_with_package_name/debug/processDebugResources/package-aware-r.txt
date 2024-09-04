@@ -3174,6 +3174,7 @@ id CTRL
 id FUNCTION
 id META
 id NO_DEBUG
+id NewPw
 id SHIFT
 id SHOW_ALL
 id SHOW_PATH
@@ -3241,6 +3242,7 @@ id add
 id adjust_height
 id adjust_width
 id ageEditText
+id ageTextView
 id alertTitle
 id aligned
 id all
@@ -3348,6 +3350,7 @@ id dragRight
 id dragStart
 id dragUp
 id drivingLicenseCheckBox
+id drivingLicenseTextView
 id dropdown_menu
 id easeIn
 id easeInOut
@@ -3358,7 +3361,6 @@ id edit_query
 id edit_text_id
 id elastic
 id email
-id emailEditText
 id embed
 id end
 id endToStart
@@ -3388,6 +3390,7 @@ id fragment_container_view_tag
 id frost
 id fullscreen_header
 id genderRadioGroup
+id genderTextView
 id ghost_view
 id ghost_view_holder
 id gone
@@ -3493,6 +3496,8 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
+id nameEditText
+id nameTextView
 id navigationFragmentContainer
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_icon_container
@@ -3546,6 +3551,7 @@ id pathRelative
 id peekHeight
 id percent
 id phoneEditText
+id phoneNumberTextView
 id pin
 id position
 id postLayout
@@ -3632,6 +3638,7 @@ id stop
 id stretch
 id submenuarrow
 id submitButton
+id submitNewCreds
 id submit_area
 id supportScrollUp
 id tabMode
@@ -3688,6 +3695,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id userID
 id vertical_only
 id view_offset_helper
 id view_transition
@@ -3826,6 +3834,7 @@ layout abc_tooltip
 layout activity_form
 layout activity_main
 layout activity_register
+layout activity_user_data
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
 layout custom_dialog
@@ -3985,6 +3994,8 @@ string common_signin_button_text_long
 string copy_toast_msg
 string do_you_have_a_driving_license
 string email
+string enter_new_email_adress
+string enter_new_password
 string enter_your_age
 string enter_your_email
 string enter_your_first_name

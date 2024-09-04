@@ -24,8 +24,7 @@
                 android:autofillHints="age"
                 android:hint="@string/enter_your_age"
                 android:inputType="number"
-                android:minHeight="48dp"
-                android:textColorHint="#546E7A" />
+                android:minHeight="48dp"/>
 
             <CheckBox
                 android:id="@+id/drivingLicenseCheckBox"
@@ -60,14 +59,13 @@
             </RadioGroup>
 
             <EditText
-                android:id="@+id/emailEditText"
+                android:id="@+id/nameEditText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:autofillHints="emailAddress"
-                android:hint="@string/enter_your_email"
+                android:hint="@string/enter_your_first_name"
                 android:inputType="textEmailAddress"
-                android:minHeight="48dp"
-                android:textColorHint="#546E7A" />
+                android:minHeight="48dp"/>
 
             <EditText
                 android:id="@+id/phoneEditText"
@@ -76,8 +74,7 @@
                 android:autofillHints="phone"
                 android:hint="@string/enter_your_phone_number"
                 android:inputType="phone"
-                android:minHeight="48dp"
-                android:textColorHint="#546E7A" />
+                android:minHeight="48dp"/>
 
             <Button
                 android:id="@+id/submitButton"

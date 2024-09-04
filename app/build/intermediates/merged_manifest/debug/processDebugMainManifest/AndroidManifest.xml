@@ -42,6 +42,7 @@
         </activity>
         <activity android:name="com.example.mobilt_java23_karl_kowal_lifecycle_v4.FormActivity" />
         <activity android:name="com.example.mobilt_java23_karl_kowal_lifecycle_v4.RegisterActivity" />
+        <activity android:name="com.example.mobilt_java23_karl_kowal_lifecycle_v4.UserDataActivity" />
 
         <service
             android:name="com.google.firebase.components.ComponentDiscoveryService"

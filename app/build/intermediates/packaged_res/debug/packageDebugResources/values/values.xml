@@ -5,6 +5,8 @@
     <string name="app_name">Mobilt_java23_Karl_Kowal_LifeCycle_v4</string>
     <string name="do_you_have_a_driving_license">Do you have a driving license?</string>
     <string name="email">Email</string>
+    <string name="enter_new_email_adress">Enter new email adress</string>
+    <string name="enter_new_password">Enter new password</string>
     <string name="enter_your_age">Enter your age</string>
     <string name="enter_your_email">Enter your email</string>
     <string name="enter_your_first_name">Enter your first name</string>

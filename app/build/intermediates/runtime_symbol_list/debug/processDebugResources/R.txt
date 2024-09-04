@@ -3173,6 +3173,7 @@ int id CTRL 0x7f080003
 int id FUNCTION 0x7f080004
 int id META 0x7f080005
 int id NO_DEBUG 0x7f080006
+int id NewPw 0x7f080225
 int id SHIFT 0x7f080007
 int id SHOW_ALL 0x7f080008
 int id SHOW_PATH 0x7f080009
@@ -3240,6 +3241,7 @@ int id add 0x7f080046
 int id adjust_height 0x7f080047
 int id adjust_width 0x7f080048
 int id ageEditText 0x7f080049
+int id ageTextView 0x7f08021d
 int id alertTitle 0x7f08004a
 int id aligned 0x7f08004b
 int id all 0x7f08004c
@@ -3347,6 +3349,7 @@ int id dragRight 0x7f0800b1
 int id dragStart 0x7f0800b2
 int id dragUp 0x7f0800b3
 int id drivingLicenseCheckBox 0x7f0800b4
+int id drivingLicenseTextView 0x7f08021e
 int id dropdown_menu 0x7f0800b5
 int id easeIn 0x7f0800b6
 int id easeInOut 0x7f0800b7
@@ -3357,7 +3360,6 @@ int id edit_query 0x7f0800bb
 int id edit_text_id 0x7f0800bc
 int id elastic 0x7f0800bd
 int id email 0x7f0800be
-int id emailEditText 0x7f0800bf
 int id embed 0x7f0800c0
 int id end 0x7f0800c1
 int id endToStart 0x7f0800c2
@@ -3387,6 +3389,7 @@ int id fragment_container_view_tag 0x7f0800d9
 int id frost 0x7f0800da
 int id fullscreen_header 0x7f0800db
 int id genderRadioGroup 0x7f0800dc
+int id genderTextView 0x7f080220
 int id ghost_view 0x7f0800dd
 int id ghost_view_holder 0x7f0800de
 int id gone 0x7f0800df
@@ -3492,6 +3495,8 @@ int id mtrl_picker_text_input_range_start 0x7f080142
 int id mtrl_picker_title_text 0x7f080143
 int id mtrl_view_tag_bottom_padding 0x7f080144
 int id multiply 0x7f080145
+int id nameEditText 0x7f080223
+int id nameTextView 0x7f080224
 int id navigationFragmentContainer 0x7f080146
 int id navigation_bar_item_active_indicator_view 0x7f080147
 int id navigation_bar_item_icon_container 0x7f080148
@@ -3545,6 +3550,7 @@ int id pathRelative 0x7f080177
 int id peekHeight 0x7f080178
 int id percent 0x7f080179
 int id phoneEditText 0x7f08017a
+int id phoneNumberTextView 0x7f080221
 int id pin 0x7f08017b
 int id position 0x7f08017c
 int id postLayout 0x7f08017d
@@ -3631,6 +3637,7 @@ int id stop 0x7f0801cd
 int id stretch 0x7f0801ce
 int id submenuarrow 0x7f0801cf
 int id submitButton 0x7f0801d0
+int id submitNewCreds 0x7f080226
 int id submit_area 0x7f0801d1
 int id supportScrollUp 0x7f0801d2
 int id tabMode 0x7f0801d3
@@ -3687,6 +3694,7 @@ int id uniform 0x7f080205
 int id unlabeled 0x7f080206
 int id up 0x7f080207
 int id useLogo 0x7f080208
+int id userID 0x7f080222
 int id vertical_only 0x7f080209
 int id view_offset_helper 0x7f08020a
 int id view_transition 0x7f08020b
@@ -3825,6 +3833,7 @@ int layout abc_tooltip 0x7f0b001b
 int layout activity_form 0x7f0b001c
 int layout activity_main 0x7f0b001d
 int layout activity_register 0x7f0b001e
+int layout activity_user_data 0x7f0b0071
 int layout browser_actions_context_menu_page 0x7f0b001f
 int layout browser_actions_context_menu_row 0x7f0b0020
 int layout custom_dialog 0x7f0b0021
@@ -3984,6 +3993,8 @@ int string common_signin_button_text_long 0x7f100042
 int string copy_toast_msg 0x7f100043
 int string do_you_have_a_driving_license 0x7f100044
 int string email 0x7f100045
+int string enter_new_email_adress 0x7f1000d6
+int string enter_new_password 0x7f1000d7
 int string enter_your_age 0x7f100046
 int string enter_your_email 0x7f100047
 int string enter_your_first_name 0x7f100048

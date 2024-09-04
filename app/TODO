@@ -11,7 +11,7 @@
 **Plan för VG punkter** 3/3
 --11:All kod i kotlin (Klar. Kommer ju inte ändras lol) VG
 --10:Registerings sida (Klar) VG
-9:Använder en databas för att spara creds ???? (Kanske vet inte om det räknas) VG
+--9:Använder en databas för att spara creds ???? (Kanske vet inte om det räknas) VG
 
 För punkt 9. Vi hämtar data direkt vid inlogg och lagrar det lokalt med SharedPreferences.
 Detta kommer göra det lättare när användaren vill ändra email (eventuellt pw) att kolla skillnaden på dom 2 så minskar vi anrop.
