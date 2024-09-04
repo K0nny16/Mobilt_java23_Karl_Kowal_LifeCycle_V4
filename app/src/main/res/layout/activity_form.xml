@@ -21,9 +21,11 @@
                 android:id="@+id/ageEditText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:autofillHints="age"
                 android:hint="@string/enter_your_age"
                 android:inputType="number"
-                android:minHeight="48dp" />
+                android:minHeight="48dp"
+                android:textColorHint="#546E7A" />
 
             <CheckBox
                 android:id="@+id/drivingLicenseCheckBox"
@@ -34,7 +36,8 @@
             <RadioGroup
                 android:id="@+id/genderRadioGroup"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content">
+                android:layout_height="wrap_content"
+                android:autofillHints="">
 
                 <RadioButton
                     android:id="@+id/radioMale"
@@ -52,6 +55,7 @@
                     android:id="@+id/radioOther"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:autofillHints=""
                     android:text="@string/other" />
             </RadioGroup>
 
@@ -59,17 +63,21 @@
                 android:id="@+id/emailEditText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:autofillHints="emailAddress"
                 android:hint="@string/enter_your_email"
                 android:inputType="textEmailAddress"
-                android:minHeight="48dp" />
+                android:minHeight="48dp"
+                android:textColorHint="#546E7A" />
 
             <EditText
                 android:id="@+id/phoneEditText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:autofillHints="phone"
                 android:hint="@string/enter_your_phone_number"
                 android:inputType="phone"
-                android:minHeight="48dp" />
+                android:minHeight="48dp"
+                android:textColorHint="#546E7A" />
 
             <Button
                 android:id="@+id/submitButton"

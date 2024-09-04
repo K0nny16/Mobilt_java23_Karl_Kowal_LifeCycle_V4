@@ -18,18 +18,18 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //Initierar UI-element.
-        val emailText = findViewById<EditText>(R.id.email);
-        val pwText = findViewById<EditText>(R.id.password);
-        val loginButton = findViewById<Button>(R.id.loginButton);
+        val emailText = findViewById<EditText>(R.id.email)
+        val pwText = findViewById<EditText>(R.id.password)
+        val loginButton = findViewById<Button>(R.id.loginButton)
 
 
         loginButton.setOnClickListener {
-            val email = emailText.text.toString();
-            val pw = pwText.text.toString();
+            val email = emailText.text.toString()
+            val pw = pwText.text.toString()
             //Kollar så alla fields är ifylda. (Kanske kan göras direkt på komponenten?)
             if(pw.isNotEmpty() && email.isNotEmpty()){
                 //Initierar firebase innan den behövs för att skicka infon.
-                val firebaseManager = FirebaseManager(this);
+                val firebaseManager = FirebaseManager(this)
                 firebaseManager.signIn(email,pw){success,errorMsg ->
                     if(success){
                         Toast.makeText(this,"Login successful!",Toast.LENGTH_SHORT).show()
