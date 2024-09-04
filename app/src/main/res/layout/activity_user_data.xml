@@ -92,6 +92,7 @@
                 android:layout_height="wrap_content"
                 android:id="@+id/NewPw"
                 android:layout_marginTop="15dp"
+                android:inputType="textPassword"
                 android:hint="@string/enter_new_password"/>
             <Button
                 android:layout_width="match_parent"
