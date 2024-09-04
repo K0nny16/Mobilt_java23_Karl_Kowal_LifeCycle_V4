@@ -1,70 +1,162 @@
 [
     {
-        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-39:/mipmap-anydpi_ic_launcher_round.xml.flat",
-        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-41:/mipmap-anydpi/ic_launcher_round.xml"
+        "merged": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:\\mipmap-anydpi\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-39:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-41:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:/drawable_custom_img_background.xml.flat",
+        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:/drawable/custom_img_background.xml"
     },
     {
-        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-39:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-41:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:/mipmap-mdpi_custom_img.webp.flat",
+        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:/mipmap-mdpi/custom_img.webp"
     },
     {
-        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-39:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-41:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:/mipmap-mdpi_custom_img_round.webp.flat",
+        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:/mipmap-mdpi/custom_img_round.webp"
     },
     {
-        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-39:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-41:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-39:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-41:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:\\mipmap-anydpi\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-39:/layout_activity_main.xml.flat",
-        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-41:/layout/activity_main.xml"
+        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:/mipmap-xxhdpi_custom_img.webp.flat",
+        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:/mipmap-xxhdpi/custom_img.webp"
     },
     {
-        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-39:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-41:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:/mipmap-xxhdpi_custom_img_foreground.webp.flat",
+        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:/mipmap-xxhdpi/custom_img_foreground.webp"
     },
     {
-        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-39:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-41:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-39:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-41:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-39:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-41:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-39:/mipmap-anydpi_ic_launcher.xml.flat",
-        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-41:/mipmap-anydpi/ic_launcher.xml"
+        "merged": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-39:/xml_backup_rules.xml.flat",
-        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-41:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:\\layout_fragment_navigation.xml.flat",
+        "source": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:\\layout\\fragment_navigation.xml"
     },
     {
-        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-39:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-41:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:\\layout\\activity_register.xml"
     },
     {
-        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-39:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-41:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-39:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-41:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-39:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-41:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:/mipmap-mdpi_custom_img_foreground.webp.flat",
+        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:/mipmap-mdpi/custom_img_foreground.webp"
+    },
+    {
+        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:/mipmap-xhdpi_custom_img_foreground.webp.flat",
+        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:/mipmap-xhdpi/custom_img_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:/mipmap-anydpi-v26_custom_img_round.xml.flat",
+        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:/mipmap-anydpi-v26/custom_img_round.xml"
+    },
+    {
+        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:/mipmap-xhdpi_custom_img.webp.flat",
+        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:/mipmap-xhdpi/custom_img.webp"
+    },
+    {
+        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:/mipmap-hdpi_custom_img_round.webp.flat",
+        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:/mipmap-hdpi/custom_img_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:/layout_activity_form.xml.flat",
+        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:/layout/activity_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:/mipmap-hdpi_custom_img.webp.flat",
+        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:/mipmap-hdpi/custom_img.webp"
+    },
+    {
+        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:/mipmap-hdpi_custom_img_foreground.webp.flat",
+        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:/mipmap-hdpi/custom_img_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:\\layout_activity_form.xml.flat",
+        "source": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:\\layout\\activity_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:\\drawable_background_rounded.xml.flat",
+        "source": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:\\drawable\\background_rounded.xml"
+    },
+    {
+        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:/mipmap-xxxhdpi_custom_img.webp.flat",
+        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:/mipmap-xxxhdpi/custom_img.webp"
+    },
+    {
+        "merged": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\kowal\\.gradle\\daemon\\8.7\\com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:/mipmap-xxhdpi_custom_img_round.webp.flat",
+        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:/mipmap-xxhdpi/custom_img_round.webp"
+    },
+    {
+        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:/mipmap-xxxhdpi_custom_img_round.webp.flat",
+        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:/mipmap-xxxhdpi/custom_img_round.webp"
+    },
+    {
+        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:/mipmap-xhdpi_custom_img_round.webp.flat",
+        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:/mipmap-xhdpi/custom_img_round.webp"
+    },
+    {
+        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:/mipmap-anydpi-v26_custom_img.xml.flat",
+        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:/mipmap-anydpi-v26/custom_img.xml"
+    },
+    {
+        "merged": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-debug-40:/mipmap-xxxhdpi_custom_img_foreground.webp.flat",
+        "source": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-main-42:/mipmap-xxxhdpi/custom_img_foreground.webp"
     }
 ]

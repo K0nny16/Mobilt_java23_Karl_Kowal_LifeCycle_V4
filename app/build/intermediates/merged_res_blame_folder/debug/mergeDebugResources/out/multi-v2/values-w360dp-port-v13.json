@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-mergeDebugResources-37:/values-w360dp-port-v13/values-w360dp-port-v13.xml",
+            "outputFile": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-mergeDebugResources-38:/values-w360dp-port-v13/values-w360dp-port-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\kowal\\.gradle\\caches\\transforms-4\\1bcf1723667e1820aab0c3d8631293ff\\transformed\\material-1.12.0\\res\\values-w360dp-port-v13\\values-w360dp-port-v13.xml",
+                    "source": "C:\\Users\\kowal\\.gradle\\caches\\transforms-4\\cc10f4c6b898dd799980ecfade8d7347\\transformed\\material-1.12.0\\res\\values-w360dp-port-v13\\values-w360dp-port-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

@@ -1,0 +1,18 @@
+**Prio Order**
+--1:Fixa inloggings sidan (Klar)
+--2:Linka FB så man kan logg in (Klar)
+--3:Intenta till FormActivity (Klar)
+--4:Designa FormActivity 5/5 (Klar)
+--5:Skapat fragment för navigering mellan dom olika activitysen (Klar)
+--6:Skapa alla Activity features (Klar)
+--7:Custom app icon (Klar)
+8:Spara data på FB och även autospara om den ifall man stänger appen/trayar den. (Delvis klar har funktionen för att spara data)
+
+**Plan för VG punkter** 3/3
+--11:All kod i kotlin (Klar. Kommer ju inte ändras lol) VG
+--10:Registerings sida (Klar) VG
+9:Använder en databas för att spara creds ???? (Kanske vet inte om det räknas) VG
+
+För punkt 9. Vi hämtar data direkt vid inlogg och lagrar det lokalt med SharedPreferences.
+Detta kommer göra det lättare när användaren vill ändra email (eventuellt pw) att kolla skillnaden på dom 2 så minskar vi anrop.
+

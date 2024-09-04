@@ -3,4 +3,18 @@
     <string name="email">Email</string>
     <string name="password">Password</string>
     <string name="login">Login</string>
+    <string name="submit">Submit</string>
+    <string name="enter_your_first_name">Enter your first name</string>
+    <string name="enter_your_age">Enter your age</string>
+    <string name="do_you_have_a_driving_license">Do you have a driving license?</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="register">Register</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="user_data">User Data</string>
+    <string name="user">User</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
 </resources>

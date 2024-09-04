@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-mergeDebugResources-37:/values-v18/values-v18.xml",
+            "outputFile": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-mergeDebugResources-38:/values-v18/values-v18.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\kowal\\.gradle\\caches\\transforms-4\\87a02f9d717567e6a7066cc84a794b8a\\transformed\\appcompat-1.7.0\\res\\values-v18\\values-v18.xml",
+                    "source": "C:\\Users\\kowal\\.gradle\\caches\\transforms-4\\18efc6bea0f58a16c8e5001a438e2b4b\\transformed\\appcompat-1.7.0\\res\\values-v18\\values-v18.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

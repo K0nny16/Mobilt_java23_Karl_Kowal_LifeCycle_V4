@@ -1,5 +1,6 @@
 package com.example.mobilt_java23_karl_kowal_lifecycle_v4
 
+import android.content.Intent
 import android.os.Bundle
 import android.widget.Button
 import android.widget.EditText
@@ -32,7 +33,8 @@ class MainActivity : AppCompatActivity() {
                 firebaseManager.signIn(email,pw){success,errorMsg ->
                     if(success){
                         Toast.makeText(this,"Login successful!",Toast.LENGTH_SHORT).show()
-                        //Byta activity.
+                        val intent = Intent(this,FormActivity::class.java)
+                        startActivity(intent)
                     }else{
                         Toast.makeText(this,"Error: $errorMsg",Toast.LENGTH_SHORT).show()
                     }
