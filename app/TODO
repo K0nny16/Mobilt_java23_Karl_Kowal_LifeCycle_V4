@@ -6,7 +6,7 @@
 --5:Skapat fragment för navigering mellan dom olika activitysen (Klar)
 --6:Skapa alla Activity features (Klar)
 --7:Custom app icon (Klar)
-8:Spara data på FB och även autospara om den ifall man stänger appen/trayar den. (Delvis klar har funktionen för att spara data)
+--8:Spara data på FB och även autospara om den ifall man stänger appen/trayar den. (Delvis klar har funktionen för att spara data)
 
 **Plan för VG punkter** 3/3
 --11:All kod i kotlin (Klar. Kommer ju inte ändras lol) VG
@@ -15,4 +15,24 @@
 
 För punkt 9. Vi hämtar data direkt vid inlogg och lagrar det lokalt med SharedPreferences.
 Detta kommer göra det lättare när användaren vill ändra email (eventuellt pw) att kolla skillnaden på dom 2 så minskar vi anrop.
+
+
+**Punkter till presentation**
+(Bara skriv saker undertidens gång)
+1: Flexbox (CSS i fragment xml)
+2: Skillnader på Firebase
+    Setup lite klurigare men en fröjd att använda.
+    Otroligt skalbart (inget nytt men bara kolla på RTDB och Auth som exempel)
+3:Design....
+4:Nav gjord som ett fragment. Tvärtom eftersom att det är den ända delen som inte ändras.
+5:* vs Any
+6:Kotlin ? Gillar det syntaxen känns lite ovan men vet inte hur mycket som är "ren" syntax då det mesta är ramverk.
+7:Gradle < Maven (Kan få in maven men tror inte riktigt det är syftet med projektet att avvika från denna PM?)
+8: Struggles
+    Design*100 (Outsourca hela layout delen 10x)
+    Komma på 5 olika attriubter till användaren och använda olika komponenter för det (olkart på komponent delen kan va feltolkat)
+    .gitignore ? Helt övertygad om det finns filer som ska ignoreras men vet inte vilka så allt åker med vilket var en commit på nästan 100k första pushen.
+
+9: Frågor
+    Concurrency ? Klart det finns men vad är "taken"? Kan man få race-conditions mellan fragments och activitys?
 
