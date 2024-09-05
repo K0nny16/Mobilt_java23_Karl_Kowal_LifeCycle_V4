@@ -27,7 +27,7 @@ class UserDataActivity : AppCompatActivity() {
         genderTV = findViewById(R.id.genderTextView)
         nameTV = findViewById(R.id.nameTextView)
         phoneNumberTV = findViewById(R.id.phoneNumberTextView)
-        val uid = fb.getUID()
+        val uid = fb.auth.currentUser?.uid
 
         if(uid != null){
             fetchAndShowData(uid)

@@ -4,7 +4,7 @@
             "outputFile": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-mergeDebugResources-38:/values-watch-v21/values-watch-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\kowal\\.gradle\\caches\\transforms-4\\18efc6bea0f58a16c8e5001a438e2b4b\\transformed\\appcompat-1.7.0\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "source": "/Users/karlkowal/.gradle/caches/transforms-4/18efc6bea0f58a16c8e5001a438e2b4b/transformed/appcompat-1.7.0/res/values-watch-v21/values-watch-v21.xml",
                     "from": {
                         "startLines": "2,6,10",
                         "startColumns": "4,4,4",

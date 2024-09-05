@@ -13,7 +13,7 @@ import com.google.firebase.database.ValueEventListener
 
 class FirebaseManager(private val activity: Activity) {
 
-    private val auth: FirebaseAuth = FirebaseAuth.getInstance()
+    val auth: FirebaseAuth = FirebaseAuth.getInstance()
     private val db = FirebaseDatabase.getInstance("https://lifecyclev4-b7069-default-rtdb.europe-west1.firebasedatabase.app").reference
 
     //Görs Async med onComplete. Alltså det som finns i onComplete är det som returneras.
@@ -76,12 +76,6 @@ class FirebaseManager(private val activity: Activity) {
             //Apply är async istället för commit() som är sync.
             apply()
         }
-    }
-    fun getUID():String?{
-        //Hämtar instansen vi skapde innan.
-        val sharedPref = activity.getSharedPreferences("UserPreferences",Context.MODE_PRIVATE)
-        //Hämtar värdet som finns till den angavna keyn om det inte finns något värde så returnera null.
-        return sharedPref.getString("FirebaseUID",null)
     }
     fun newPassword(newPassword:String, onComplete: (Boolean, String?) -> Unit){
         val user:FirebaseUser? = auth.currentUser

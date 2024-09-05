@@ -4,7 +4,7 @@
             "outputFile": "com.example.mobilt_java23_karl_kowal_lifecycle_v4.app-mergeDebugResources-38:/values-h550dp-port-v13/values-h550dp-port-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\kowal\\.gradle\\caches\\transforms-4\\cc10f4c6b898dd799980ecfade8d7347\\transformed\\material-1.12.0\\res\\values-h550dp-port-v13\\values-h550dp-port-v13.xml",
+                    "source": "/Users/karlkowal/.gradle/caches/transforms-4/cc10f4c6b898dd799980ecfade8d7347/transformed/material-1.12.0/res/values-h550dp-port-v13/values-h550dp-port-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
